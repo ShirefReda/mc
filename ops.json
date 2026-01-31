@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "5d699a31-ec85-3988-8737-00837d4fca6a",
+    "name": "koomputer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "797ce745-3977-3760-a5b0-31531d176778",
+    "name": "4ime",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ab64569c-79e5-4718-b4ac-121c6b86a4dd",
+    "name": "koomputer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
