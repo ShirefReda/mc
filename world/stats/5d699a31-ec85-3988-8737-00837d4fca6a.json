@@ -1,43 +1,46 @@
 {
   "stats": {
-    "minecraft:killed": {
-      "minecraft:villager": 2,
-      "minecraft:ender_dragon": 1
-    },
-    "minecraft:mined": {
-      "minecraft:oak_leaves": 8,
-      "minecraft:oak_log": 1
-    },
-    "minecraft:custom": {
-      "minecraft:talked_to_villager": 25,
-      "minecraft:time_since_rest": 55686,
-      "minecraft:walk_one_cm": 12284,
-      "minecraft:leave_game": 5,
-      "minecraft:mob_kills": 3,
-      "minecraft:damage_taken": 90,
-      "minecraft:damage_dealt": 1230,
-      "minecraft:play_time": 55686,
-      "minecraft:jump": 65,
-      "minecraft:time_since_death": 55686,
-      "minecraft:sprint_one_cm": 9658,
-      "minecraft:fall_one_cm": 1376,
-      "minecraft:total_world_time": 55686,
-      "minecraft:fly_one_cm": 100572,
-      "minecraft:crouch_one_cm": 2268,
-      "minecraft:sneak_time": 1085,
-      "minecraft:player_kills": 4
-    },
     "minecraft:picked_up": {
-      "minecraft:leaf_litter": 3,
+      "minecraft:leaf_litter": 8,
       "minecraft:oak_log": 1,
       "minecraft:end_portal_frame": 62,
       "minecraft:ender_eye": 64
     },
+    "minecraft:custom": {
+      "minecraft:talked_to_villager": 38,
+      "minecraft:time_since_rest": 8193,
+      "minecraft:walk_one_cm": 24904,
+      "minecraft:leave_game": 10,
+      "minecraft:mob_kills": 4,
+      "minecraft:damage_taken": 590,
+      "minecraft:damage_dealt": 1648,
+      "minecraft:play_time": 80499,
+      "minecraft:jump": 111,
+      "minecraft:time_since_death": 8155,
+      "minecraft:sprint_one_cm": 19934,
+      "minecraft:fall_one_cm": 11068,
+      "minecraft:total_world_time": 80499,
+      "minecraft:fly_one_cm": 128197,
+      "minecraft:crouch_one_cm": 3031,
+      "minecraft:sneak_time": 1342,
+      "minecraft:deaths": 2,
+      "minecraft:player_kills": 6
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 8,
+      "minecraft:leaf_litter": 2,
+      "minecraft:oak_log": 1
+    },
     "minecraft:used": {
+      "minecraft:grass_block": 1,
       "minecraft:flint_and_steel": 1,
-      "minecraft:ender_eye": 35,
-      "minecraft:end_portal_frame": 45,
+      "minecraft:ender_eye": 69,
+      "minecraft:end_portal_frame": 81,
       "minecraft:obsidian": 16
+    },
+    "minecraft:killed": {
+      "minecraft:villager": 2,
+      "minecraft:ender_dragon": 2
     }
   },
   "DataVersion": 4671
